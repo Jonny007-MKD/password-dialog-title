@@ -1,0 +1,2 @@
+content     passworddialogtitle    content/
+overlay     chrome://global/content/commonDialog.xul    chrome://passworddialogtitle/content/settitle.xul
