@@ -4,13 +4,13 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>passworddialogtitle@jonny007-mkd.de</em:id>
     <em:name>Password Dialog Title</em:name>
-    <em:version>0.14</em:version>
+    <em:version>0.15</em:version>
     <em:creator>Jonny007-MKD</em:creator>
 
     <em:targetApplication>
       <Description>
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-        <em:minVersion>60.*</em:minVersion>
+        <em:minVersion>60.0</em:minVersion>
         <em:maxVersion>*</em:maxVersion>
       </Description>
     </em:targetApplication>
